@@ -1,0 +1,86 @@
+
+.element1{
+	width: 46vw;
+	height: 8vw;
+	background-color: rgba(8, 248, 164, 0.237);
+	position: relative;
+    z-index: 5;
+	text-align:left;
+    border-style:dashed;
+    margin-top: 5vw;
+    margin-left: 25vw;
+    border-color: lightgrey;
+    border-width: 1px;
+    padding: 10px;
+}
+.element3{
+	width:33vw;
+	height: 28vw;
+	background-color: rgba(245, 106, 164, 0.327);
+	position: absolute;
+    z-index: 4;
+	text-align:left;
+    border-style: dashed;
+    margin-top: -5vw;
+    margin-left: 40vw;
+    border-color: lightgray;
+    border-width: 1px;
+    padding: 10px;
+}
+.element4{
+	width:29vw;
+	height: 8vw;
+	background-color: rgba(248, 148, 8, 0.237);
+	position: relative;
+    z-index: 6;
+	text-align:left;
+    border-style: dashed;
+    margin-top: -2vw;
+    margin-left: 41vw;
+    border-color: lightgray;
+    border-width: 1px;
+    padding: 10px;
+
+}
+.element5{
+	width: 29vw;
+	height: 6vw;
+	background-color: rgba(248, 148, 8, 0.237);
+	position: relative;
+    z-index: 1;
+	text-align:left;
+    border-style: dashed;
+    margin-top: 8vw;
+    margin-left: 41vw;
+    border-color: lightgray;
+    border-width: 1px;
+    padding: 10px;
+}
+.element6{
+	width:14vw;
+	height: 23vw;
+	background-color: rgba(60, 60, 250, 0.237);
+	position: absolute;
+    z-index: 3;
+	text-align:left;
+    border-style: dashed;
+    margin-top: -4vw;
+    margin-left: 55vw;
+    border-color: lightgray;
+    border-width: 1px;
+    padding: 10px;
+}
+.element2{
+	width:46vw;
+	height: 8vw;
+	background-color: rgba(8, 248, 164, 0.237);
+	position: relative;
+    z-index: 2;
+	text-align:left;
+    border-style: dashed;
+    border-color: lightgray;
+    border-width: 1px;
+    margin-top: -3vw;
+    margin-left: 25vw;
+    padding: 10px;
+}
